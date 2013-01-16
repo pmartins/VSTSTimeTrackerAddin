@@ -1,0 +1,14 @@
+- armazenar numa cache nome dos servidores
+- alinhar form logon no centro do control
+
+testes:
+- testar outro utilizador
+
+melhoramentos não prioritários:
+- problema de ser necessário uma password de administrador para conseguir fazer alterações no team system
+	(sol: guardar cifrado num ficheiro à parte as credenciais necessárias)
+- problema de não permitir ao utilizador inserir tempos incorrectos manualmente.
+	(sol: on txttime loosefocus fazer a validação)
+- armazenar num ficheiro de configuração informação sobre o ultimo servidor a que nos ligámos, etc...
+- colocar o botão fechar a desactivar o addin
+- colocar outro icon no addin
